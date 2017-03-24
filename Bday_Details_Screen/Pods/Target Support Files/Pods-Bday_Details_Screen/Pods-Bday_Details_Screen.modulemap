@@ -1,0 +1,6 @@
+framework module Pods_Bday_Details_Screen {
+  umbrella header "Pods-Bday_Details_Screen-umbrella.h"
+
+  export *
+  module * { export * }
+}
